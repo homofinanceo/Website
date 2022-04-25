@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 1536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.46547,0,0,1.41568,-750.955,-276.368)">
+        <text x="1011.96px" y="863.533px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:576px;fill:rgb(255,226,0);">II</text>
+    </g>
+    <g transform="matrix(1.60754,0,0,1.41568,-632.984,-936.217)">
+        <rect x="1009.81" y="948.26" width="28.396" height="10.428" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.81323,0,0,2.05431,-805.793,-776.506)">
+        <rect x="964.511" y="530.207" width="27.277" height="47.106" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.81323,0,0,2.02659,-714.721,-761.809)">
+        <rect x="964.511" y="530.207" width="27.277" height="47.106" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.81323,0,0,2.02939,-805.793,-131.965)">
+        <rect x="964.511" y="530.207" width="27.277" height="47.106" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.81323,0,0,1.98509,-714.887,-106.898)">
+        <rect x="964.511" y="530.207" width="27.277" height="47.106" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.54484,0,0,1.41568,-568.663,-411.076)">
+        <rect x="1009.81" y="948.26" width="28.396" height="10.428" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.45438,0,0,1.40184,-482.318,-410.835)">
+        <path d="M1244.01,610.726C1243.34,611.242 1238.65,614.833 1232.31,619.54C1168.07,667.236 873.556,881.754 812.315,924.842C807.015,928.571 802.801,931.388 802.189,931.796C799.141,933.271 797.362,936.783 798.095,940.339C798.947,944.476 802.876,947.116 806.863,946.232C807.207,946.156 808.254,945.892 809.758,944.964C811.24,944.049 814.972,941.493 820.607,937.528C881.893,894.409 1176.62,679.736 1240.91,632.005C1248.33,626.495 1252.79,623.109 1253.63,622.364C1255.8,620.462 1256.09,618.587 1256.18,618.189C1257.15,614.08 1254.72,609.929 1250.76,608.924C1248.27,608.292 1245.77,609.053 1244.01,610.726Z" style="fill:rgb(255,226,0);"/>
+    </g>
+    <g transform="matrix(1.46547,0,0,1.41568,-138.863,-486.399)">
+        <text x="579.962px" y="1205.93px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:144px;fill:url(#_Linear1);">HOMO</text>
+    </g>
+    <g id="Ebene1">
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(398.006,0,0,398.006,595.218,1158.26)"><stop offset="0" style="stop-color:rgb(255,0,26);stop-opacity:1"/><stop offset="0.22" style="stop-color:rgb(255,145,0);stop-opacity:1"/><stop offset="0.45" style="stop-color:rgb(255,227,0);stop-opacity:1"/><stop offset="0.61" style="stop-color:rgb(17,206,0);stop-opacity:1"/><stop offset="0.77" style="stop-color:rgb(0,6,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(170,0,255);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
